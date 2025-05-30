@@ -54,15 +54,15 @@
 ## 📊 Моя статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNOWNUMB&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="SNOWNUMB's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=S-NOWNUM-B&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="S-NOWNUM-B's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNOWNUMB&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNOWNUMB&theme=dracula&hide_border=true" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-NOWNUM-B&theme=dracula&hide_border=true" alt="Contribution Streak"/>
 </p>
 
 ---
