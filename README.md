@@ -12,8 +12,8 @@
   <a href="mailto:mamayev.stas@gmail.com">
     <img src="https://img.shields.io/badge/Email-mamayev.stas%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://github.com/S-NOWNUM-B">
-    <img src="https://img.shields.io/badge/GitHub-S-NOWNUM-B-181717?style=flat-square&logo=github" alt="GitHub"/>
+  <a href="https://github.com/SNOWNUMB">
+    <img src="https://img.shields.io/badge/GitHub-SNOWNUMB-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
   <a href="https://t.me/snownumb">
     <img src="https://img.shields.io/badge/Telegram-@snownumb-0088cc?style=flat-square&logo=telegram" alt="Telegram"/>
@@ -86,8 +86,8 @@
   <a href="mailto:mamayev.stas@gmail.com">
     <img src="https://img.shields.io/badge/Email-mamayev.stas%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://github.com/S-NOWNUM-B">
-    <img src="https://img.shields.io/badge/GitHub-S-NOWNUM-B-181717?style=flat-square&logo=github" alt="GitHub"/>
+  <a href="https://github.com/SNOWNUMB">
+    <img src="https://img.shields.io/badge/GitHub-SNOWNUMB-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
   <a href="https://t.me/snownumb">
     <img src="https://img.shields.io/badge/Telegram-@snownumb-0088cc?style=flat-square&logo=telegram" alt="Telegram"/>
