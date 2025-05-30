@@ -54,15 +54,15 @@
 ## 📊 Моя статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNOWNUMB&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="SnowNumb's GitHub Stats (https://github-readme-stats.vercel.app/api?username=SNOWNUMB&show_icons=true&theme=dracula&hide_border=true)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SNOWNUMB&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="SNOWNUMB's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowNumb&layout=compact&theme=dracula&hide_border=true" alt="Top Languages (https://github-readme-stats.vercel.app/api/top-langs/?username=SNOWNUMB&layout=compact&theme=dracula&hide_border=true)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNOWNUMB&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowNumb&theme=dracula&hide_border=true" alt="Contribution Streak (https://github-readme-streak-stats.herokuapp.com/?user=SNOWNUMB&theme=dracula&hide_border=true)"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNOWNUMB&theme=dracula&hide_border=true" alt="Contribution Streak"/>
 </p>
 
 ---
