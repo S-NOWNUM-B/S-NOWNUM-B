@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-NOWNUM-B&theme=dracula&hide_border=true" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-NOWNUM-B&theme=dracula&hide_border=true" alt="Contribution Streak"onerror="this.src='https://via.placeholder.com/400x200?text=Contribution+Streak+Loading...'"/>
 </p>
 
 ---
