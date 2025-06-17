@@ -54,15 +54,15 @@
 ## 📊 Моя статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-NOWNUM-B&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="S-NOWNUM-B's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=S-NOWNUM-B&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="S-NOWNUM-B's GitHub Stats" onerror="this.src='https://via.placeholder.com/400x200?text=GitHub+Stats+Not+Loaded';this.style.border='2px solid red'"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" onerror="this.src='https://via.placeholder.com/400x200?text=Top+Languages+Not+Loaded';this.style.border='2px solid red'"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-NOWNUM-B&theme=dracula&hide_border=true" alt="Contribution Streak"onerror="this.src='https://via.placeholder.com/400x200?text=Contribution+Streak+Loading...'"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-NOWNUM-B&theme=dracula&hide_border=true" alt="Contribution Streak" onerror="this.src='https://via.placeholder.com/400x200?text=Contribution+Streak+Not+Loaded';this.style.border='2px solid red'"/>
 </p>
 
 ---
