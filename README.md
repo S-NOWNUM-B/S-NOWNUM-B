@@ -41,7 +41,7 @@
 | **Категория**         | **Навыки**                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
 | **Языки**             | ☕ Java  •  🐍 Python  •  ⚡ JavaScript                                  |
-| **Frontend & Design** | 🌐 HTML  •  🎨 CSS  •  🖌️ Photoshop  •  🎥 Premier Pro  •  ✂️ Corel  •  🖥️ Figma  •  📐 AutoCAD  •  ⚛️ Next.js |
+| **Frontend & Design** | 🌐 HTML  •  🎨 CSS  •  ⚛️ Next.js  •  🖌️ Photoshop  •  🎥 Premier Pro  •  ✂️ Corel  •  🖥️ Figma  •  📐 AutoCAD|
 | **Backend**           | 🧩 Django  •  🚀 FastAPI                                               |
 | **Инструменты**       | 🛠️ Git  •  🐳 Docker  •  ☁ AWS                                       |
 
