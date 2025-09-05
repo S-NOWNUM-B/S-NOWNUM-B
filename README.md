@@ -41,12 +41,12 @@
 | **Категория**         | **Навыки**                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
 | **Языки**             | ☕ Java  •  🐍 Python  •  ⚡ JavaScript                                  |
-| **Frontend & Design** | 🌐 HTML  •  🎨 CSS  •  🖌️ Photoshop  •  🎥 Premier Pro  •  ✂️ Corel  •  🖥️ Figma  •  📐 AutoCAD |
-| **Backend**           | 🧩 Django  •  🚀 FastAPI  •  🌱 Spring Boot                            |
+| **Frontend & Design** | 🌐 HTML  •  🎨 CSS  •  🖌️ Photoshop  •  🎥 Premier Pro  •  ✂️ Corel  •  🖥️ Figma  •  📐 AutoCAD  •  ⚛️ Next.js |
+| **Backend**           | 🧩 Django  •  🚀 FastAPI                                               |
 | **Инструменты**       | 🛠️ Git  •  🐳 Docker  •  ☁ AWS                                       |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,django,fastapi,spring,photoshop,premiere,figma,autocad,git,docker,aws" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,django,fastapi,photoshop,premiere,figma,autocad,git,docker,aws,nextjs" alt="Tech Stack"/>
 </p>
 
 ---
