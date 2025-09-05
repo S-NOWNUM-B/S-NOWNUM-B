@@ -46,7 +46,7 @@
 | **Инструменты**       | 🛠️ Git  •  🐳 Docker  •  ☁ AWS                                       |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,photoshop,premiere,figma,autocad,nextjs,django,fastapi,git,docker,aws" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nextjs,django,fastapi,photoshop,premiere,figma,autocad,git,docker,aws" alt="Tech Stack"/>
 </p>
 
 ---
