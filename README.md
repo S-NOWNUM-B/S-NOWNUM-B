@@ -40,13 +40,13 @@
 
 | **Категория**         | **Навыки**                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
-| **Языки**             | ☕ Java  •  🐍 Python  •  ⚡ JavaScript                                  |
-| **Frontend & Design** | 🌐 HTML  •  🎨 CSS  •  ⚛️ Next.js  •  🖌️ Photoshop  •  🎥 Premier Pro  •  ✂️ Corel  •  🖥️ Figma  •  📐 AutoCAD|
-| **Backend**           | 🧩 Django  •  🚀 FastAPI                                               |
-| **Инструменты**       | 🛠️ Git  •  🐳 Docker  •  ☁ AWS                                       |
+| **Языки**             | ☕ Java  •  🐍 Python                                    |
+| **Frontend & Design** | 🌐 HTML  •  🎨 CSS  •  ⚛️ Next.js  |
+| **Backend**           | 🧩 Django                                                 |
+| **Инструменты**       | 🛠️ Git                                        |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nextjs,django,fastapi,photoshop,premiere,figma,autocad,git,docker,aws" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,nextjs,django, git" alt="Tech Stack"/>
 </p>
 
 ---
