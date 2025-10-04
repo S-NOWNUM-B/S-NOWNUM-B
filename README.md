@@ -131,8 +131,11 @@
 
 **Открыт для интересных проектов и сотрудничества**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamayev.stas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D1%81-%D0%BC%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2-b9a868316/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-NOWNUM-B)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamayev.stas@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snownumb)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=mamayev.stas@gmail.com)
+[![Taplink](https://img.shields.io/badge/Taplink-00C9A7?style=for-the-badge&logo=appveyor&logoColor=white)](https://taplink.cc/snownumb)
 
 </div>
