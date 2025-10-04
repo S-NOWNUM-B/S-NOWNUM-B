@@ -2,98 +2,134 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
-<h1 align="center">Привет, я SNOWNUMB! </h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Developer | EdTech Enthusiast | Студент Software Engineering</strong>
+<h1>Привет, я SNOWNUMB! </h1>
+
+### Full-Stack Developer | Software Engineering Student | EdTech Enthusiast
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamayev.stas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-NOWNUM-B)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snownumb)
+
+</div>
+
+---
+
+## О себе
+
+<p align="justify">
+Разработчик с фокусом на создание масштабируемых и надёжных web-приложений. Специализируюсь на полном цикле разработки — от проектирования архитектуры и работы с базами данных до реализации удобных пользовательских интерфейсов. Умею работать как в команде, так и самостоятельно, применяя современные технологии и лучшие практики.
 </p>
 
-<p align="center">
-  <a href="mailto:mamayev.stas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mamayev.stas%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/S-NOWNUM-B">
-    <img src="https://img.shields.io/badge/GitHub-S--NOWNUM--B-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/snownumb">
-    <img src="https://img.shields.io/badge/Telegram-@snownumb-0088cc?style=flat-square&logo=telegram" alt="Telegram"/>
-  </a>
+</div>
+
+### Ключевые компетенции
+
+<p align="justify">
+• Full-Stack разработка с использованием Python, Java, JavaScript и современных фреймворков<br>
+• Работа с SQL и NoSQL базами данных, проектирование и оптимизация запросов<br>
+• UX/UI дизайн, прототипирование и тестирование интерфейсов в Figma<br>
+• Опыт участия в разработке и поддержке корпоративных web-платформ<br>
+• Создание адаптивных и кроссбраузерных пользовательских интерфейсов<br>
+• Работа с облачными сервисами (AWS) и контейнеризацией (Docker)<br>
+• Настройка CI/CD процессов и автоматизация развертывания<br>
+• Использование Git и GitHub/GitLab для командной разработки<br>
+• Изучение и внедрение современных архитектурных паттернов и best practices
+</p>
+
+### Текущий фокус
+
+<p align="justify">
+• Создание современных и удобных web-интерфейсов<br>
+• Разработка инструментов автоматизации<br>
+• Изучение продвинутых паттернов проектирования<br>
+• Работа с облачными сервисами и DevOps-практиками<br>
+• Изучение и внедрение современных frontend-подходов<br>
+• Проектирование и оптимизация баз данных<br>
+• Интеграция AI-инструментов в веб-проекты
 </p>
 
 ---
 
-## 🚀 Обо мне
+## Технологический стек
 
-Я — начинающий разработчик, который верит, что технологии могут не просто работать, а менять жизни. Моя цель — создавать умные и доступные EdTech-инструменты, которые делают обучение для студентов легче, интереснее и понятнее.
+<div align="center">
 
-Мне важно, чтобы каждое приложение не просто выполняло задачи, а имело понятную логику, красивый интерфейс и заботу о пользователе. Я одинаково серьёзно подхожу к backend'у — пишу API, разбираюсь в архитектуре, изучаю микросервисы — и к frontend'у, где интуиция, визуальный стиль и удобство особенно важны.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-Я не просто пишу код — я стараюсь вкладывать в проект часть себя, будь то дизайн, идея или интерфейс. Моё увлечение графикой и интерес к геймдеву помогают мне создавать решения, в которых есть что-то большее, чем просто функциональность.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🔥 **Что меня двигает:** Искренний интерес, любопытство и настоящая любовь к информатике. Именно это помогает мне расти как разработчику и искать нестандартные подходы к привычным задачам.  
-📚 **Чем занимаюсь сейчас:** Углубляюсь в дополнительный материал, который помогает мне двигаться к своим целям и строить фундамент для будущих проектов.  
-💡 **Что вдохнавляет:** Продуманный UI, геймификация, автоматизация, красивые детали в интерфейсах и сильные идеи за простыми вещами.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-## 🛠️ Технологии и Инструменты
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-1D8D21?style=for-the-badge&logo=coreldraw&logoColor=white)
 
-<p align="center">
-    <h3>💻 Основные Языки и Стек</h3>
-    <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,html5,css3&perline=6" alt="Языки программирования и Стек"/>
-    <br>
-    <h3>⚛️ Фреймворки и Библиотеки</h3>
-    <img src="https://skillicons.dev/icons?i=spring,react,django,nextjs,fastapi,nodejs&perline=6" alt="Фреймворки и Библиотеки"/>
-    <br>
-    <h3>💾 Базы Данных</h3>
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&perline=6" alt="Базы Данных"/>
-    <br>
-    <h3>☁️ Инструменты и Инфраструктура</h3>
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,postman&perline=6" alt="Инструменты, DevOps и Облако"/>
-    <br>
-    <h3>🎨 Дизайн</h3>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,corel&perline=6" alt="Дизайн и Прототипирование"/>
-</p>
----
+</div>
 
-## 📊 Моя статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-NOWNUM-B&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="S-NOWNUM-B's GitHub Stats" onerror="this.src='https://via.placeholder.com/400x200?text=GitHub+Stats+Not+Loaded';this.style.border='2px solid red'"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" onerror="this.src='https://via.placeholder.com/400x200?text=Top+Languages+Not+Loaded';this.style.border='2px solid red'"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-NOWNUM-B&theme=dracula&hide_border=true" alt="Contribution Streak" onerror="this.src='https://via.placeholder.com/400x200?text=Contribution+Streak+Not+Loaded';this.style.border='2px solid red'"/>
-</p>
 
 ---
 
-## 🏆 Достижения
+## GitHub Statistics
 
-- 🏫 **Участие в проекте по цифровизации университета**  
-  Внёс вклад в разработку и внедрение цифровых решений для внутренней инфраструктуры вуза, направленных на повышение эффективности учебных и административных процессов.
+<div align="center">
 
-- 🧠 **Работа над ребрендингом компании FACEPLATE**  
-  Принимал участие в процессе визуального и стратегического обновления имиджа крупной компании, помогая адаптировать айдентику под современные цифровые стандарты.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-NOWNUM-B&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff)
 
-- 🛠 **Инженер ПТО в проекте государственного уровня**  
-  Участвовал в разработке специализированного оборудования в компании Глобал Связь Инжиниринг, выполняя задачи технического сопровождения и контроля качества в рамках крупного госзаказа.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=S-NOWNUM-B&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+
+</div>
+
 
 ---
 
-## 📬 Связаться со мной
+## Профессиональный опыт
 
-<p align="center">
-  <a href="mailto:mamayev.stas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mamayev.stas%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/S-NOWNUM-B">
-    <img src="https://img.shields.io/badge/GitHub-S--NOWNUM--B-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/snownumb">
-    <img src="https://img.shields.io/badge/Telegram-@snownumb-0088cc?style=flat-square&logo=telegram" alt="Telegram"/>
-  </a>
+### Ключевые проекты
+
+#### Цифровизация университетской инфраструктуры
+<p align="justify">
+Разработка и внедрение цифровых решений для оптимизации учебных и административных процессов университета. Участие в проектировании системной архитектуры и реализации ключевых модулей.
 </p>
+
+#### Ребрендинг FACEPLATE
+<p align="justify">
+Участие в масштабном проекте по обновлению корпоративной айдентики. Адаптация визуальных решений под современные digital-стандарты, работа над UI-концепциями.
+</p>
+
+#### Инженер ПТО | Глобал Связь Инжиниринг
+<p align="justify">
+Техническое сопровождение государственного проекта. Контроль качества специализированного оборудования, подготовка технической документации.
+</p>
+
+---
+
+## Контакты
+
+<div align="center">
+
+**Открыт для интересных проектов и сотрудничества**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamayev.stas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-NOWNUM-B)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snownumb)
+
+</div>
