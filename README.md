@@ -6,7 +6,7 @@
 
 <h1>Привет, я SNOWNUMB! </h1>
 
-### Full-Stack Developer | Software Engineering Student | EdTech Enthusiast
+### Full-Stack Developer | Software Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D1%81-%D0%BC%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2-b9a868316/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-NOWNUM-B)
