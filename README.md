@@ -35,17 +35,10 @@
 💡 **Что вдохнавляет:** Продуманный UI, геймификация, автоматизация, красивые детали в интерфейсах и сильные идеи за простыми вещами.
 
 ---
-
-## 🛠️ Технологии и инструменты
-
-| **Категория**         | **Навыки**                                                                 |
-|-----------------------|---------------------------------------------------------------------------|
-| **Языки**             | ☕ Java  •  🐍 Python  •  ⚡ JavaScript                                  |
-| **Frontend & Design** | 🌐 HTML  •  🎨 CSS  •  ⚛️ Next.js  •  🖌️ Photoshop  •  ✂️ Corel  •  🖥️ Figma|
-| **Backend**           | 🧩 Django                                                |
-| **Инструменты**       | 🛠️ Git  •  🐳 Docker  •  ☁ AWS                                       |
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nextjs,django,photoshop,premiere,figma,git,docker,aws" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,vuejs,nodejs,django,python,php,mysql,nginx,gunicorn&perline=7" alt="Технологии 1"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,nextjs,nextjs,photoshop,figma,git,docker,aws,flutter&perline=7" alt="Технологии 2"/>
 </p>
 
 ---
