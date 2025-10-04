@@ -38,9 +38,9 @@
 ## 🛠️ Технологии и инструменты
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html5,css3,javascript,vuejs,nodejs,php,python,django,mysql,nginx,gunicorn&perline=11" alt="Веб-технологии и Фреймворки"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html5,css3&perline=11" alt="Веб-технологии и Фреймворки"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=flutter,java,nextjs,photoshop,figma,git,docker,aws&perline=11" alt="Мобильная разработка, Дизайн и Инструменты"/>
+  <img src="https://skillicons.dev/icons?i=django,nextjs,nodejs,photoshop,figma,git,docker,aws&perline=11" alt="Мобильная разработка, Дизайн и Инструменты"/>
 </p>
 
 ---
