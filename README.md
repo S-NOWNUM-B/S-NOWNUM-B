@@ -41,23 +41,18 @@
     <h3>💻 Основные Языки и Стек</h3>
     <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,html5,css3&perline=6" alt="Языки программирования и Стек"/>
     <br>
-    
     <h3>⚛️ Фреймворки и Библиотеки</h3>
     <img src="https://skillicons.dev/icons?i=spring,react,django,nextjs,fastapi,nodejs&perline=6" alt="Фреймворки и Библиотеки"/>
     <br>
-    
     <h3>💾 Базы Данных</h3>
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&perline=6" alt="Базы Данных"/>
     <br>
-    
     <h3>☁️ Инструменты и Инфраструктура</h3>
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,githubactions,postman&perline=6" alt="Инструменты, DevOps и Облако"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,postman&perline=6" alt="Инструменты, DevOps и Облако"/>
     <br>
-
     <h3>🎨 Дизайн</h3>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop&perline=6" alt="Дизайн и Прототипирование"/>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,corel&perline=6" alt="Дизайн и Прототипирование"/>
 </p>
-
 ---
 
 ## 📊 Моя статистика
