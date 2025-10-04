@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamayev.stas@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snownumb)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=mamayev.stas@gmail.com)
-[![Taplink](https://img.shields.io/badge/Taplink-00C9A7?style=for-the-badge&logo=appveyor&logoColor=white))](https://taplink.cc/snownumb)
+[![Taplink](https://img.shields.io/badge/Taplink-00C9A7?style=for-the-badge&logo=appveyor&logoColor=white)](https://taplink.cc/snownumb)
 
 </div>
 
