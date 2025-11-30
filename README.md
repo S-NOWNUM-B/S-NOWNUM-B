@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D1%81-%D0%BC%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2-b9a868316/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamayev.stas@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/7TZW2OWPDQY4E1)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snownumb)
 [![Taplink](https://img.shields.io/badge/Taplink-00C9A7?style=for-the-badge&logo=appveyor&logoColor=white)](https://taplink.cc/snownumb)
 
@@ -132,6 +133,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D1%81-%D0%BC%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2-b9a868316/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamayev.stas@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/7TZW2OWPDQY4E1)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snownumb)
 [![Taplink](https://img.shields.io/badge/Taplink-00C9A7?style=for-the-badge&logo=appveyor&logoColor=white)](https://taplink.cc/snownumb)
 
