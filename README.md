@@ -100,7 +100,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=8b949e&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=S-NOWNUM-B&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=S-NOWNUM-B&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
