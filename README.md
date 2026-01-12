@@ -92,20 +92,6 @@
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-NOWNUM-B&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=8b949e&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=S-NOWNUM-B&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
----
-
 ## Профессиональный опыт
 
 #### Цифровизация университетской инфраструктуры
@@ -121,6 +107,11 @@
 #### Инженер ПТО | Глобал Связь Инжиниринг
 <p align="justify">
 Техническое сопровождение государственного проекта. Контроль качества специализированного оборудования, подготовка технической документации.
+</p>
+
+#### Helpdesk система для Агентство Республики Казахстан по регулированию и развитию финансового рынка
+<p align="justify">
+Разработка веб-сервиса управления заявками для распределённых команд разработчиков. Система обеспечивает прозрачную коммуникацию между клиентами и разработчиками с отслеживанием проблем, назначением исполнителей и приоритизацией задач через административную панель и встраиваемые виджеты.
 </p>
 
 ---
