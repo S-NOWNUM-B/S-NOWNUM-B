@@ -29,10 +29,10 @@
 ### Ключевые компетенции
 
 <p align="justify">
-• Full-Stack разработка с использованием JavaScript/TypeScript (React, Next.js, Node.js), Python (FastAPI)<br>
+• Full-Stack разработка с использованием JavaScript/TypeScript (React, Next.js, Node.js), Java (Spring Boot)<br>
 • Работа с PostgreSQL: проектирование схем, оптимизация запросов и управление базами данных<br>
 • Frontend-разработка с React, Next.js, TypeScript, HTML/CSS и адаптивной версткой<br>
-• Backend-разработка на Node.js/NestJS и FastAPI с проектированием REST API<br>
+• Backend-разработка на Node.js/NestJS и Spring Boot с проектированием REST API<br>
 • UX/UI дизайн и прототипирование в Figma и Photoshop<br>
 • Работа с облачными платформами (AWS), контейнеризацией (Docker) и системами очередей (RabbitMQ)<br>
 • Настройка CI/CD процессов и автоматизация развертывания<br>
@@ -49,7 +49,7 @@
 • Разработка современных web-приложений с использованием React и Next.js<br>
 • Проектирование и разработка масштабируемых backend-решений на Node.js<br>
 • Создание адаптивных и кроссбраузерных пользовательских интерфейсов<br>
-• Работа с MySQL и PostgreSQL: проектирование структуры данных и оптимизация производительности<br>
+• Работа с MongoDB и PostgreSQL: проектирование структуры данных и оптимизация производительности<br>
 • Изучение продвинутых паттернов проектирования и архитектурных решений<br>
 • Интеграция облачных сервисов, контейнеризация и настройка CI/CD пайплайнов<br>
 • Работа с системами очередей (RabbitMQ) и инструментами для тестирования API<br>
@@ -64,7 +64,6 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -78,13 +77,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
