@@ -58,7 +58,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter" />
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq" />
-<img src="https://skillicons.dev/icons?i=git,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,postman,docker" />
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 </div>
