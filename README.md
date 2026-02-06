@@ -54,10 +54,10 @@
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,swift,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,dart,java" />
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter" />
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
-<img src="https://skillicons.dev/icons?i=postgres,firebase,redis,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=postgres,firebase" />
 <img src="https://skillicons.dev/icons?i=git,postman,docker" />
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
