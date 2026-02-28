@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="200"/>
-</p>
-
 <div align="center">
-
-<h1>Привет, я SNOWNUMB! </h1>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:300000,50:ff0000,100:300000&height=200&&section=header&text=SNOWNUMB&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  
 ### Fullstack Developer | Software Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D1%81-%D0%BC%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2-b9a868316/)
@@ -117,4 +112,3 @@
 > </p>
 >
 > </details>
-
