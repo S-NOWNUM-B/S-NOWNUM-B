@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:300000,50:ff0000,100:300000&height=200&&section=header&text=SNOWNUMB&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:200000,15:ff0000,85:ff0000,100:200000&height=200&&section=header&text=SNOWNUMB&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
   
 ### Fullstack Developer | Software Engineering Student
 
@@ -75,7 +75,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=S-NOWNUM-B&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="195" align="middle" alt="GitHub Streak" />
 
   <!-- Топ языков (Твой Vercel) -->
-  <img src="https://github-readme-stats-wheat-omega-64.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_radius=0&cache_seconds=1800" height="165" align="middle" alt="Top Langs" />
+  <img src="https://github-readme-stats-wheat-omega-64.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_radius=0&cache_seconds=1800&include_all_commits=true&v=4" height="165" align="middle" alt="Top Langs" />
 
 ---
 
