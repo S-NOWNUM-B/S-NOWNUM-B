@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:200000,15:ff0000,85:ff0000,100:200000&height=200&section=header&text=SNOWNUMB&fontSize=80&fontAlignY=50&animation=twinkling&fontColor=fff" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SNOWNUMB;FULLSTACK+DEV;BUILDING+SYSTEMS" />
   
 ### Fullstack Developer | Software Engineering Student
 
