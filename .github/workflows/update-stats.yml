@@ -1,9 +1,9 @@
-name: Update GitHub Stats
+name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # каждые 3 часа
-  workflow_dispatch:         # ручной запуск
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -13,16 +13,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
-      - name: Bump cache-busting version in README
+      - name: Bump cache-busting timestamp
         run: |
-          # Генерируем метку времени
           TS=$(date +%s)
-          # Меняем параметр v= на текущий timestamp
           sed -i "s/&v=[0-9]*/\&v=$TS/g" README.md
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add README.md && git commit -m "chore: update stats cache buster" && git push)
+          git diff --quiet || (
+            git add README.md &&
+            git commit -m "chore: update stats cache buster [skip ci]" &&
+            git push
+          )
