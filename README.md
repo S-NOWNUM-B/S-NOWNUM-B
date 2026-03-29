@@ -115,4 +115,7 @@
 > Разработка веб-сервиса управления заявками для распределённых команд разработчиков. Система обеспечивает прозрачную коммуникацию между клиентами и разработчиками с отслеживанием проблем, назначением исполнителей и приоритизацией задач через административную панель и встраиваемые виджеты.
 > </p>
 >
+> <div align="center">
+>  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="Tech Stack Banner" width="100%" />
+> </div>
 > </details>
