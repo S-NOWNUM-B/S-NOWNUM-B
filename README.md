@@ -59,9 +59,9 @@
 <div align="center">
   
 <img src="https://skillicons.dev/icons?i=ts,java" />
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter" />
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
-<img src="https://skillicons.dev/icons?i=postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,flutter" />
+<img src="https://skillicons.dev/icons?i=nestjs,spring" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
 <img src="https://skillicons.dev/icons?i=git,postman,docker" />
 <img src="https://skillicons.dev/icons?i=figma" />
 
@@ -116,7 +116,3 @@
 > </p>
 >
 > </details>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="Tech Stack Banner" width="100%" />
-</div>
