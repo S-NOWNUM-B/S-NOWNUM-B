@@ -74,10 +74,10 @@
 <div align="center">
 
 <!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-NOWNUM-B&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&v=1777278226" height="195" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-NOWNUM-B&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&v=1777287785" height="195" alt="GitHub Streak" />
 
 <!-- TOP LANGS (включая приватные через vercel-деплой) -->
-<img src="https://github-readme-stats-wheat-omega-64.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&include_all_commits=true&count_private=true&v=1777278226" height="165" alt="Top Langs" />
+<img src="https://github-readme-stats-wheat-omega-64.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&include_all_commits=true&count_private=true&v=1777287785" height="165" alt="Top Langs" />
 
 </div>
 
