@@ -1,7 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&initialPause=0&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=SNOWNUMB;FULLSTACK+DEV;BUILDING+SYSTEMS" />
-  
-### Fullstack Developer | Software Engineering Student
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:020202,10:040404,20:0A0203,30:160405,38:2C070A,43:500B10,46:7C1018,48:A8151E,50:B91721,52:B91721,54:A8151E,58:7C1018,64:500B10,72:2C070A,84:160405,92:0A0203,100:020202&text=SNOWNUMB&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Software%20Engineering%20%7C%20Student&descAlignY=58&descSize=18&animation=fadeIn"
+  />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D1%81-%D0%BC%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2-b9a868316/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamayev.stas@gmail.com)
@@ -21,30 +23,11 @@ Fullstack разработчик, работаю с полным циклом, �
 
 ---
 
-> [!IMPORTANT]
-> <details>
-> <summary>Компетенции и развитие</summary>
->
-> <br>
->
-> • Fullstack-разработка на TypeScript: React, Next.js и NestJS  
-> • Backend-разработка на Java с использованием Spring Boot  
-> • Проектирование архитектуры приложений и структуры модулей  
-> • Создание и интеграция REST API  
-> • Работа с PostgreSQL, Prisma и миграциями базы данных   
-> • Применение SOLID, паттернов проектирования и clean code  
-> • Работа с Git, Docker, Postman и Linux-окружением  
-> • Использование AI-инструментов с проверкой качества и безопасности кода  
->
-> </details>
-
----
-
 ## Технологический стек
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=ts,java" />
+<img src="https://skillicons.dev/icons?i=ts,kotlin" />
 <img src="https://skillicons.dev/icons?i=tailwind,nextjs" />
 <img src="https://skillicons.dev/icons?i=nestjs,spring" />
 <img src="https://skillicons.dev/icons?i=prisma" />
@@ -66,42 +49,3 @@ Fullstack разработчик, работаю с полным циклом, �
 <img src="https://github-readme-stats-wheat-omega-64.vercel.app/api/top-langs/?username=S-NOWNUM-B&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&include_all_commits=true&count_private=true&v=1789615975" height="165" alt="Top Langs" />
 
 </div>
-
----
-
-> [!CAUTION]
-> <details>
-> <summary><b>Профессиональный опыт</b></summary>
->
-> <br>
->
-> #### **ЦИФРОВИЗАЦИЯ УНИВЕРСИТЕТСКОЙ ИНФРАСТРУКТУРЫ | Практика**
-> <p align="justify">
-> Разработка и внедрение цифровых решений для оптимизации учебных и административных процессов университета. Участие в проектировании системной архитектуры и реализации ключевых модулей.
-> </p>
->
-> ---
->
-> #### **FACEPLATE | Ребрендинг**
-> <p align="justify">
-> Участие в масштабном проекте по обновлению корпоративной айдентики. Адаптация визуальных решений под современные digital-стандарты, работа над UI-концепциями.
-> </p>
->
-> ---
->
-> #### **ГЛОБАЛ СВЯЗЬ ИНЖИНИРИНГ | Инженер ПТО**
-> <p align="justify">
-> Техническое сопровождение государственного проекта. Контроль качества специализированного оборудования, подготовка технической документации.
-> </p>
->
-> ---
->
-> #### **АГЕНТСТВО РК ПО РЕГУЛИРОВАНИЮ И РАЗВИТИЮ ФИНАНСОВОГО РЫНКА | Helpdesk система**
-> <p align="justify">
-> Разработка веб-сервиса управления заявками для распределённых команд разработчиков. Система обеспечивает прозрачную коммуникацию между клиентами и разработчиками с отслеживанием проблем, назначением исполнителей и приоритизацией задач через административную панель и встраиваемые виджеты.
-> </p>
->
-> <div align="center">
->  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="Tech Stack Banner" width="100%" />
-> </div>
-> </details>
