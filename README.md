@@ -29,11 +29,10 @@ Fullstack разработчик, работаю с полным циклом, �
   
 <img src="https://skillicons.dev/icons?i=ts,kotlin" />
 <img src="https://skillicons.dev/icons?i=tailwind,nextjs" />
-<img src="https://skillicons.dev/icons?i=nestjs,spring" />
-<img src="https://skillicons.dev/icons?i=prisma" />
-<img src="https://skillicons.dev/icons?i=postman,git,bun,docker" />
-<img src="https://skillicons.dev/icons?i=webstorm" />
-<img src="https://skillicons.dev/icons?i=ubuntu" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=git,docker" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=linux" />
 </div>
 
 ---
