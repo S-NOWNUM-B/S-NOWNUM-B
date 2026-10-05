@@ -28,7 +28,7 @@ Fullstack разработчик, работаю с полным циклом, �
   
 <img src="https://skillicons.dev/icons?i=ts,kotlin" />
 <img src="https://skillicons.dev/icons?i=tailwind,nextjs" />
-<img src="https://skillicons.dev/icons?i=spring,ktor" />
+<img src="https://skillicons.dev/icons?i=spring" />
 <img src="https://skillicons.dev/icons?i=git,docker" />
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 <img src="https://skillicons.dev/icons?i=linux" />
